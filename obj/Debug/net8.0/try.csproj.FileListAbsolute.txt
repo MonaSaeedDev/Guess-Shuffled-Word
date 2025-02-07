@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\try\try\bin\Debug\net8.0\try.exe
+C:\Users\DELL\source\repos\try\try\bin\Debug\net8.0\try.deps.json
+C:\Users\DELL\source\repos\try\try\bin\Debug\net8.0\try.runtimeconfig.json
+C:\Users\DELL\source\repos\try\try\bin\Debug\net8.0\try.dll
+C:\Users\DELL\source\repos\try\try\bin\Debug\net8.0\try.pdb
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\try.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\try.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\try.AssemblyInfo.cs
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\try.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\try.sourcelink.json
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\try.dll
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\refint\try.dll
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\try.pdb
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\try.genruntimeconfig.cache
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\ref\try.dll
