@@ -1,74 +1,32 @@
-﻿using System.Diagnostics;
-using System.Timers;
+﻿using InventoryManagement;
 
 class Program
 {
-    private static System.Timers.Timer _timer;
-    private static Stopwatch _stopwatch = new Stopwatch();
-    private const int LifetimeSeconds = 10;
-    private static readonly CancellationTokenSource _cts = new();
-    static string word = "developer";
-    static async Task Main()
+    static void Main(string[] args)
     {
-        // Fisher-Yates algorithm
-        string shuffledWord = ShuffleWord();
-        Console.WriteLine($"** Try to guess the word \"{shuffledWord}\" **");
-    
-        _stopwatch.Start();
-        Task executionTask = KeepRunning(_cts.Token);
+        //Item laptop = new Item("Laptop", 45, 200);
+        //Item laptop = new Item("Phone", -9, -19);
+        //Item laptop = new Item("Phone", -9, 19);
+        Item laptop = new Item("+", 9, 19);
+        laptop.DisplayItemDetails();
 
-        await Task.Delay(TimeSpan.FromSeconds(LifetimeSeconds));
+        //Item stopwatch = new Item("Stopwatch", 10, 200);
+        //Item stopwatch = new Item(null, -9, -19);
+        //stopwatch.DisplayItemDetails();
 
+        //Item phone = new Item("Phone", 60, 120);
+        //Item phone = new Item("", -9, 19);
+        //Item phone = new Item(" ", +9, 19);
+        Item phone = new Item("7476", 10, 500);
+        phone.DisplayItemDetails();
 
-        Console.WriteLine("\nTime's Up");
-        _cts.Cancel();
-
-        await Task.Delay(500);
-
-        Environment.Exit(0);
-    }
-
-    private static async Task KeepRunning(CancellationToken token)
-    {
-        while (!token.IsCancellationRequested)
-        {
-            try
-            {
-                await GuessWord(token);
-            }
-            catch (OperationCanceledException)
-            {
-                Console.WriteLine("\nGuessing was canceled.");
-                Environment.Exit(0);
-            }
-        }
-    }
-
-    private static async Task GuessWord(CancellationToken token)
-    {
-        Console.Write("Enter your guess: ");
-
-        string? guessedWord = await Task.Run(() => Console.ReadLine(), token);
-
-
-        if (guessedWord.Equals(word, StringComparison.CurrentCultureIgnoreCase))
-        {
-            Console.WriteLine("Your guess is correct!");
-            Environment.Exit(0);
-        }
-        Console.WriteLine("Your guess is incorrect!");
-    }
-
-    static string ShuffleWord()
-    {
-        Random rand = new Random();
-
-        var chars = word.ToCharArray();
-        for (int i = chars.Length - 1; i > 0; i--)
-        {
-            int randomIndex = rand.Next(i + 1);
-            (chars[randomIndex], chars[i]) = (chars[i], chars[randomIndex]);
-        }
-        return new string(chars);
+        Item cocaCola = new Item("coca-cola", 9, 19);
+        cocaCola.DisplayItemDetails();
+        Item InvalidItem = new Item("-", 9, 19);
+        InvalidItem.DisplayItemDetails();
     }
 }
+
+
+
+

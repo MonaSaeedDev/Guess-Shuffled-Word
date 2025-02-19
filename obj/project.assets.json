@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\try\\try\\try.csproj",
-      "projectName": "try",
-      "projectPath": "C:\\Users\\DELL\\source\\repos\\try\\try\\try.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\try\\try\\inventory-management.csproj",
+      "projectName": "inventory-management",
+      "projectPath": "C:\\Users\\DELL\\source\\repos\\try\\try\\inventory-management.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\DELL\\source\\repos\\try\\try\\obj\\",
       "projectStyle": "PackageReference",

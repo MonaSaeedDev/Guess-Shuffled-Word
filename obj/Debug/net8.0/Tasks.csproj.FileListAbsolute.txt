@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\try\try\bin\Debug\net8.0\Tasks.exe
+C:\Users\DELL\source\repos\try\try\bin\Debug\net8.0\Tasks.deps.json
+C:\Users\DELL\source\repos\try\try\bin\Debug\net8.0\Tasks.runtimeconfig.json
+C:\Users\DELL\source\repos\try\try\bin\Debug\net8.0\Tasks.dll
+C:\Users\DELL\source\repos\try\try\bin\Debug\net8.0\Tasks.pdb
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\Tasks.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\Tasks.AssemblyInfo.cs
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\Tasks.sourcelink.json
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\Tasks.dll
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\refint\Tasks.dll
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\Tasks.pdb
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\Tasks.genruntimeconfig.cache
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\ref\Tasks.dll

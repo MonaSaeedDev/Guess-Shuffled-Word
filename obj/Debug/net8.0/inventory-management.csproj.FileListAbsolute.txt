@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\try\try\bin\Debug\net8.0\inventory-management.exe
+C:\Users\DELL\source\repos\try\try\bin\Debug\net8.0\inventory-management.deps.json
+C:\Users\DELL\source\repos\try\try\bin\Debug\net8.0\inventory-management.runtimeconfig.json
+C:\Users\DELL\source\repos\try\try\bin\Debug\net8.0\inventory-management.dll
+C:\Users\DELL\source\repos\try\try\bin\Debug\net8.0\inventory-management.pdb
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\inventory-management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\inventory-management.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\inventory-management.AssemblyInfo.cs
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\inventory-management.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\inventory-management.sourcelink.json
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\inventory-management.dll
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\refint\inventory-management.dll
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\inventory-management.pdb
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\inventory-management.genruntimeconfig.cache
+C:\Users\DELL\source\repos\try\try\obj\Debug\net8.0\ref\inventory-management.dll
