@@ -28,3 +28,7 @@ Once the application is up and running, you can interact with it to:
 - Add, update, and view items in the inventory.
 - Monitor stock levels in real-time and track product details.
 - Integrate the system into your own application or use it as a standalone solution.
+
+
+
+
